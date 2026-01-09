@@ -1,7 +1,5 @@
 # 🚀 Production Code - Plant Disease AI System
 
-> **Clean, production-ready codebase without comments or documentation**
-
 ## 📊 Quick Stats
 
 - **Total Size**: 804 KB (99.96% smaller than development)
