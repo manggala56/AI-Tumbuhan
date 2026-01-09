@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.sqlite
+*.sqlite-journal
+
+# Cache
+storage/
+bootstrap/cache/
+.phpunit.result.cache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# AI Models (large files)
+*.h5
+*.keras
+*.pb
+*.ckpt
+dataset/
+models/*.h5
+models/*.keras
+
+# Temporary files
+temp_*
+*.tmp
